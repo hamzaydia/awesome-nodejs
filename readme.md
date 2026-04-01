@@ -572,6 +572,7 @@
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
 - [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+- [verifyfetch](https://github.com/hamzaydia/verifyfetch) - Resumable, integrity-verified downloads for large files with constant memory and fail-fast corruption detection.
 
 ### Database
 
